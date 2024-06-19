@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 3bd28782-3e55-4798-9223-0eb41fffc931
+      url: 'https://as-1714.quarto.pub/a-new-website'
